@@ -10,6 +10,7 @@ Thank you for your contribution!
 |---|---|---|---|
 | [MUNBYN IMP034-BK](https://images-na.ssl-images-amazon.com/images/I/514cEfTx%2BtL._SL1000_.jpg) | 58mm | 0.1.1 | No issues (Android, iOS) |
 | ER-80 |  | 0.1.1 | [No issues](https://github.com/andrey-ushakov/esc_pos_bluetooth/issues/1#issuecomment-597723277) |
+| DIR-E58III | 58mm | 0.2.8 | Image no print ( only print ???????) |
 | [Seiko RP-D10](https://www.sii.co.jp/sps/eg/product/unit/rpd_series.html) | | | [Printer not listed during scan](https://github.com/andrey-ushakov/esc_pos_printer/issues/48) |
 | [Bixolon SPP-L310](https://www.bixolon.com/product_view.php?idx=137) | | | [Printer not listed during scan](https://github.com/andrey-ushakov/esc_pos_printer/issues/85) |
 |POS-5802DD (Kkmoon)|58mm|0.2.2|`PosImageFn.bitImageRaster`: align left only ;<br> `PosImageFn.graphics`: doesn't work ;<br> `Ticket.image`: works ;<br> everything else works (Tested on iOS) |
